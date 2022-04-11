@@ -1,0 +1,17 @@
+Package: FirstR
+Title: My first R package
+Version: 0.0.0.9000
+imports:
+  stats
+Authors@R: 
+    person("Congconghu", "Yudechen", email =  "2578073006@qq.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: This is a packages created by myself, I would like to identify if I master the steps 
+    which learned from jimmy. It's a fascinating experience during learning R!
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.2
+Depends: 
+    R (>= 2.10)
+LazyData: true
